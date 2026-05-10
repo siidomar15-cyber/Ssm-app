@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2024-neuro-001",
+    "topic": "NEUROLOGY",
+    "year": 2024,
+    "stem": "Sudden aphasia and right arm weakness began 90 minutes ago. CT excludes hemorrhage. What is the key next step if eligible?",
+    "options": [
+      "Aspirin only after 48 hours",
+      "IV thrombolysis assessment",
+      "Routine EEG",
+      "Lumbar puncture before treatment",
+      "Discharge with outpatient MRI"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute ischemic stroke within the treatment window requires rapid reperfusion evaluation. Non-contrast CT first excludes hemorrhage.",
+    "takeaway": "Time is brain: consider reperfusion early."
+  }
+]

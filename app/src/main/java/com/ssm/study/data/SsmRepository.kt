@@ -2,9 +2,11 @@ package com.ssm.study.data
 
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
-import kotlinx.coroutines.flow.map
 
-class SsmRepository(private val dao: QuestionDao) {
+class SsmRepository(
+    private val dao: QuestionDao,
+    private val seedQuestions: List<QuestionEntity>
+) {
     val questions: Flow<List<QuestionEntity>> = dao.observeQuestions()
     val attempts: Flow<List<AttemptEntity>> = dao.observeAttempts()
     val flags: Flow<List<QuestionFlagEntity>> = dao.observeFlags()
@@ -39,7 +41,7 @@ class SsmRepository(private val dao: QuestionDao) {
     ) { questions, flags -> questions.withFlags(flags) }
 
     suspend fun seedIfEmpty() {
-        if (dao.countQuestions() == 0) dao.insertQuestions(MockQuestionBank.questions)
+        if (dao.countQuestions() == 0) dao.insertQuestions(seedQuestions)
     }
 
     suspend fun recordAnswer(question: QuestionEntity, selectedIndex: Int, elapsedMs: Long) {

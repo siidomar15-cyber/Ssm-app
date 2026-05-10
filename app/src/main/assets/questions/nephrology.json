@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2021-nephro-001",
+    "topic": "NEPHROLOGY",
+    "year": 2021,
+    "stem": "Severe hyperkalemia with ECG changes is found in the emergency department. What is the first treatment?",
+    "options": [
+      "Oral potassium binder",
+      "IV calcium gluconate",
+      "Loop diuretic only",
+      "Insulin after four hours",
+      "Fluid restriction"
+    ],
+    "correctIndex": 1,
+    "explanation": "ECG changes make hyperkalemia immediately life-threatening. IV calcium stabilizes the myocardium while potassium-shifting and elimination therapies are arranged.",
+    "takeaway": "Hyperkalemia + ECG changes: calcium first."
+  }
+]

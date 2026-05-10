@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2020-endo-001",
+    "topic": "ENDOCRINOLOGY",
+    "year": 2020,
+    "stem": "A patient with weight loss, tremor and low TSH has diffuse uptake on thyroid scintigraphy. Most likely diagnosis?",
+    "options": [
+      "Graves disease",
+      "Subacute thyroiditis",
+      "Toxic adenoma",
+      "Central hypothyroidism",
+      "Iodine deficiency"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diffuse increased uptake points to Graves disease. Thyroiditis typically has low uptake because hormone leaks from an inflamed gland.",
+    "takeaway": "Diffuse uptake in thyrotoxicosis suggests Graves."
+  }
+]

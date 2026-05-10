@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2022-stat-001",
+    "topic": "STATISTICS",
+    "year": 2022,
+    "stem": "In a screening test, which measure increases when disease prevalence increases?",
+    "options": [
+      "Sensitivity",
+      "Specificity",
+      "Positive predictive value",
+      "Likelihood ratio negative",
+      "Area under ROC curve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Predictive values depend on prevalence. As prevalence rises, positive results are more likely to be true positives, increasing PPV.",
+    "takeaway": "Prevalence changes predictive values, not sensitivity/specificity."
+  }
+]

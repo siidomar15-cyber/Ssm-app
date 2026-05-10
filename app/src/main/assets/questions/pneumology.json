@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2022-pneumo-001",
+    "topic": "PNEUMOLOGY",
+    "year": 2022,
+    "stem": "A smoker has chronic cough, hyperinflation and reduced FEV1/FVC. Which spirometric pattern is expected?",
+    "options": [
+      "Restrictive pattern with high FEV1/FVC",
+      "Normal spirometry",
+      "Obstructive pattern with low FEV1/FVC",
+      "Isolated low residual volume",
+      "Increased FEV1 with bronchodilator only"
+    ],
+    "correctIndex": 2,
+    "explanation": "COPD causes expiratory airflow limitation. Spirometry shows a reduced FEV1/FVC ratio, usually with incomplete reversibility.",
+    "takeaway": "COPD diagnosis requires obstruction on spirometry."
+  }
+]
