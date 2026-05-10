@@ -1,13 +1,16 @@
 package com.ssm.study.data
 
+import android.content.Context
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
+import kotlinx.coroutines.withContext
 
 class SsmRepository(
-    private val dao: QuestionDao,
-    private val seedQuestions: List<QuestionEntity>
+    private val appContext: Context,
+    private val dao: QuestionDao
 ) {
-    val questions: Flow<List<QuestionEntity>> = dao.observeQuestions()
+    val totalQuestions: Flow<Int> = dao.observeQuestionCount()
     val attempts: Flow<List<AttemptEntity>> = dao.observeAttempts()
     val flags: Flow<List<QuestionFlagEntity>> = dao.observeFlags()
 
@@ -16,14 +19,19 @@ class SsmRepository(
         flags
     ) { questions, flags -> questions.withFlags(flags) }
 
-    val topicProgress: Flow<List<TopicProgress>> = combine(questions, attempts) { questions, attempts ->
+    val topicProgress: Flow<List<TopicProgress>> = combine(
+        dao.observeTopicQuestionCounts(),
+        dao.observeQuestionTopicRefs(),
+        attempts
+    ) { counts, questionTopics, attempts ->
+        val totals = counts.associate { it.topic to it.total }
+        val topicByQuestionId = questionTopics.associate { it.id to it.topic }
+        val attemptsByTopic = attempts.groupBy { topicByQuestionId[it.questionId] }
         Topic.entries.map { topic ->
-            val topicQuestions = questions.filter { it.topic == topic }
-            val questionIds = topicQuestions.map { it.id }.toSet()
-            val topicAttempts = attempts.filter { it.questionId in questionIds }
+            val topicAttempts = attemptsByTopic[topic].orEmpty()
             TopicProgress(
                 topic = topic,
-                total = topicQuestions.size,
+                total = totals[topic] ?: 0,
                 attempted = topicAttempts.map { it.questionId }.distinct().size,
                 correct = topicAttempts.count { it.isCorrect }
             )
@@ -40,8 +48,8 @@ class SsmRepository(
         flags
     ) { questions, flags -> questions.withFlags(flags) }
 
-    suspend fun seedIfEmpty() {
-        if (dao.countQuestions() == 0) dao.insertQuestions(seedQuestions)
+    suspend fun seedIfEmpty(): QuestionBankImportResult = withContext(Dispatchers.IO) {
+        QuestionBank.importAssetsIfEmpty(appContext, dao)
     }
 
     suspend fun recordAnswer(question: QuestionEntity, selectedIndex: Int, elapsedMs: Long) {

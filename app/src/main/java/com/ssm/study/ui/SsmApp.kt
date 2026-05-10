@@ -1,5 +1,7 @@
 package com.ssm.study.ui
 
+import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.width
@@ -7,11 +9,14 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material.icons.outlined.Dashboard
 import androidx.compose.material.icons.outlined.Flag
+import androidx.compose.material.icons.outlined.ListAlt
 import androidx.compose.material.icons.outlined.Settings
-import androidx.compose.material.icons.outlined.Topic
 import androidx.compose.material3.Icon
+import androidx.compose.material3.NavigationBar
+import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.NavigationRail
 import androidx.compose.material3.NavigationRailItem
+import androidx.compose.material3.PermanentNavigationDrawer
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -19,6 +24,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.navigation.NavGraph.Companion.findStartDestination
+import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
@@ -37,7 +44,7 @@ private data class NavItem(val route: String, val label: String, val icon: Image
 
 private val navItems = listOf(
     NavItem("dashboard", "Dashboard", Icons.Outlined.Dashboard),
-    NavItem("topics", "Topics", Icons.Outlined.Topic),
+    NavItem("topics", "Topics", Icons.Outlined.ListAlt),
     NavItem("bookmarks", "Saved", Icons.Outlined.BookmarkBorder),
     NavItem("weak", "Weak", Icons.Outlined.Flag),
     NavItem("settings", "Settings", Icons.Outlined.Settings)
@@ -47,60 +54,108 @@ private val navItems = listOf(
 fun SsmApp(viewModel: SsmViewModel) {
     val navController = rememberNavController()
     val backStack by navController.currentBackStackEntryAsState()
-    Row(Modifier.fillMaxSize()) {
-        NavigationRail(Modifier.width(96.dp)) {
-            navItems.forEach { item ->
-                NavigationRailItem(
-                    selected = backStack?.destination?.route == item.route,
-                    onClick = { navController.navigate(item.route) { launchSingleTop = true } },
-                    icon = { Icon(item.icon, contentDescription = item.label) },
-                    label = { Text(item.label) }
-                )
+    val selectedRoute = backStack?.destination?.route
+
+    BoxWithConstraints(Modifier.fillMaxSize()) {
+        when {
+            maxWidth >= 1_100.dp -> PermanentNavigationDrawer(
+                drawerContent = {
+                    NavigationRail(Modifier.width(112.dp)) {
+                        NavigationItems(selectedRoute, navController)
+                    }
+                }
+            ) {
+                AppNavHost(viewModel, navController, Modifier.fillMaxSize())
             }
-        }
-        NavHost(navController = navController, startDestination = "dashboard", modifier = Modifier.fillMaxSize()) {
-            composable("dashboard") {
-                val state by viewModel.dashboard.collectAsStateWithLifecycle()
-                DashboardScreen(
-                    state = state,
-                    onStartSimulation = {
-                        viewModel.startSimulation()
-                        navController.navigate("quiz")
-                    },
-                    onOpenTopics = { navController.navigate("topics") }
-                )
+
+            maxWidth >= 700.dp -> Row(Modifier.fillMaxSize()) {
+                NavigationRail(Modifier.width(96.dp)) {
+                    NavigationItems(selectedRoute, navController)
+                }
+                AppNavHost(viewModel, navController, Modifier.fillMaxSize())
             }
-            composable("topics") {
-                val topics by viewModel.topics.collectAsStateWithLifecycle()
-                TopicsScreen(topics) { topic: Topic ->
-                    viewModel.startTopicQuiz(topic)
-                    navController.navigate("quiz")
+
+            else -> Column(Modifier.fillMaxSize()) {
+                AppNavHost(viewModel, navController, Modifier.weight(1f))
+                NavigationBar {
+                    navItems.forEach { item ->
+                        NavigationBarItem(
+                            selected = selectedRoute == item.route,
+                            onClick = { navController.navigateTopLevel(item.route) },
+                            icon = { Icon(item.icon, contentDescription = item.label) },
+                            label = { Text(item.label) }
+                        )
+                    }
                 }
             }
-            composable("quiz") {
-                val quiz by viewModel.quiz.collectAsStateWithLifecycle()
-                QuizScreen(
-                    state = quiz,
-                    onAnswer = viewModel::answer,
-                    onNext = viewModel::nextQuestion,
-                    onBookmark = viewModel::toggleBookmark,
-                    onDifficult = viewModel::toggleDifficult,
-                    onFinish = { navController.navigate("results") }
-                )
-            }
-            composable("results") {
-                val quiz by viewModel.quiz.collectAsStateWithLifecycle()
-                ResultsScreen(quiz) { navController.navigate("dashboard") }
-            }
-            composable("bookmarks") {
-                val items by viewModel.bookmarks.collectAsStateWithLifecycle()
-                BookmarksScreen(items, viewModel::toggleBookmark, viewModel::toggleDifficult)
-            }
-            composable("weak") {
-                val topics by viewModel.topics.collectAsStateWithLifecycle()
-                WeakAreasScreen(topics.filter { it.attempted > 0 }.sortedBy { it.accuracy })
-            }
-            composable("settings") { SettingsScreen() }
         }
+    }
+}
+
+@Composable
+private fun NavigationItems(selectedRoute: String?, navController: NavHostController) {
+    navItems.forEach { item ->
+        NavigationRailItem(
+            selected = selectedRoute == item.route,
+            onClick = { navController.navigateTopLevel(item.route) },
+            icon = { Icon(item.icon, contentDescription = item.label) },
+            label = { Text(item.label) }
+        )
+    }
+}
+
+@Composable
+private fun AppNavHost(viewModel: SsmViewModel, navController: NavHostController, modifier: Modifier = Modifier) {
+    NavHost(navController = navController, startDestination = "dashboard", modifier = modifier) {
+        composable("dashboard") {
+            val state by viewModel.dashboard.collectAsStateWithLifecycle()
+            DashboardScreen(
+                state = state,
+                onStartSimulation = {
+                    viewModel.startSimulation()
+                    navController.navigate("quiz")
+                },
+                onOpenTopics = { navController.navigateTopLevel("topics") }
+            )
+        }
+        composable("topics") {
+            val topics by viewModel.topics.collectAsStateWithLifecycle()
+            TopicsScreen(topics) { topic: Topic ->
+                viewModel.startTopicQuiz(topic)
+                navController.navigate("quiz")
+            }
+        }
+        composable("quiz") {
+            val quiz by viewModel.quiz.collectAsStateWithLifecycle()
+            QuizScreen(
+                state = quiz,
+                onAnswer = viewModel::answer,
+                onNext = viewModel::nextQuestion,
+                onBookmark = viewModel::toggleBookmark,
+                onDifficult = viewModel::toggleDifficult,
+                onFinish = { navController.navigate("results") }
+            )
+        }
+        composable("results") {
+            val quiz by viewModel.quiz.collectAsStateWithLifecycle()
+            ResultsScreen(quiz) { navController.navigateTopLevel("dashboard") }
+        }
+        composable("bookmarks") {
+            val items by viewModel.bookmarks.collectAsStateWithLifecycle()
+            BookmarksScreen(items, viewModel::toggleBookmark, viewModel::toggleDifficult)
+        }
+        composable("weak") {
+            val topics by viewModel.topics.collectAsStateWithLifecycle()
+            WeakAreasScreen(topics.filter { it.attempted > 0 }.sortedBy { it.accuracy })
+        }
+        composable("settings") { SettingsScreen() }
+    }
+}
+
+private fun NavHostController.navigateTopLevel(route: String) {
+    navigate(route) {
+        popUpTo(graph.findStartDestination().id) { saveState = true }
+        launchSingleTop = true
+        restoreState = true
     }
 }

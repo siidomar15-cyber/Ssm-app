@@ -18,7 +18,7 @@ class QuestionBankJsonTest {
         files.forEach { file ->
             assertTrue("${file.name} should be smaller than 256 KiB", file.length() < 256 * 1024)
             val bytes = file.readBytes()
-            assertFalse("${file.name} should not contain NUL bytes", bytes.contains(0))
+            assertFalse("${file.name} should not contain NUL bytes", bytes.contains(0.toByte()))
             val text = bytes.toString(Charsets.UTF_8)
             val questions = QuestionBank.parseQuestions(text, file.name)
             assertTrue("${file.name} should contain at least one question", questions.isNotEmpty())
@@ -31,16 +31,30 @@ class QuestionBankJsonTest {
     }
 
     @Test
-    fun questionFilesHaveValidQuestionContent() {
+    fun allQuestionFilesLoadTogetherWithUniqueIds() {
         val questions = questionFiles().flatMap { file ->
-            QuestionBank.parseQuestions(file.readText(), file.name)
+            QuestionBank.parseQuestions(file.readText(Charsets.UTF_8), file.name)
         }
+
         assertTrue("Expected questions", questions.isNotEmpty())
         assertEquals("Question IDs should be unique", questions.size, questions.map { it.id }.toSet().size)
+        assertEquals(
+            "Every JSON question should keep exactly five answers in answer-order",
+            questions.size,
+            questions.count { it.options.size == 5 }
+        )
+    }
+
+    @Test
+    fun questionFilesHaveValidQuestionContent() {
+        val questions = questionFiles().flatMap { file ->
+            QuestionBank.parseQuestions(file.readText(Charsets.UTF_8), file.name)
+        }
+        assertTrue("Expected questions", questions.isNotEmpty())
 
         questions.forEach { question ->
-            assertEquals(5, question.options.size)
             assertTrue(question.correctIndex in 0..4)
+            assertTrue(question.year in 2000..2100)
             assertTrue(question.stem.isNotBlank())
             assertTrue(question.options.all { it.isNotBlank() })
             assertTrue(question.explanation.isNotBlank())

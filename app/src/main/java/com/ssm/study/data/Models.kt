@@ -1,6 +1,7 @@
 package com.ssm.study.data
 
 import androidx.room.Entity
+import androidx.room.Index
 import androidx.room.PrimaryKey
 
 enum class Topic(val displayName: String) {
@@ -26,7 +27,7 @@ enum class Topic(val displayName: String) {
     ORTHOPEDICS("Orthopedics")
 }
 
-@Entity(tableName = "questions")
+@Entity(tableName = "questions", indices = [Index("topic"), Index("year")])
 data class QuestionEntity(
     @PrimaryKey val id: String,
     val topic: Topic,
@@ -45,7 +46,7 @@ data class QuestionEntity(
         get() = listOf(optionA, optionB, optionC, optionD, optionE)
 }
 
-@Entity(tableName = "attempts")
+@Entity(tableName = "attempts", indices = [Index("questionId"), Index("timestamp")])
 data class AttemptEntity(
     @PrimaryKey(autoGenerate = true) val id: Long = 0,
     val questionId: String,
@@ -62,6 +63,16 @@ data class QuestionFlagEntity(
     val difficult: Boolean = false
 )
 
+data class TopicQuestionCount(
+    val topic: Topic,
+    val total: Int
+)
+
+data class QuestionTopicRef(
+    val id: String,
+    val topic: Topic
+)
+
 data class TopicProgress(
     val topic: Topic,
     val total: Int,
@@ -75,4 +86,9 @@ data class QuestionWithFlag(
     val question: QuestionEntity,
     val bookmarked: Boolean,
     val difficult: Boolean
+)
+
+data class QuestionBankImportResult(
+    val fileCount: Int,
+    val questionCount: Int
 )
