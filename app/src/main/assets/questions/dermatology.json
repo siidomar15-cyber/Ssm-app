@@ -1,0 +1,2741 @@
+{
+  "topic": "Dermatology",
+  "questions": [
+    {
+      "id": "ssm-dermatology-0001",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected melanoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0002",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of psoriasis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to psoriasis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize psoriasis and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0003",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on eczema, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of eczema.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0004",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of bullous disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For bullous disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0005",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with skin infections?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0006",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected drug eruptions has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0007",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of melanoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to melanoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize melanoma and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0008",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on psoriasis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of psoriasis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0009",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of eczema. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For eczema, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0010",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with bullous disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0011",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected skin infections has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0012",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of drug eruptions. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to drug eruptions, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize drug eruptions and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0013",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on melanoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of melanoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0014",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of psoriasis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For psoriasis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0015",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with eczema?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0016",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected bullous disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0017",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of skin infections. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to skin infections, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize skin infections and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0018",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on drug eruptions, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of drug eruptions.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0019",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of melanoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For melanoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0020",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with psoriasis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0021",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected eczema has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0022",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of bullous disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to bullous disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize bullous disease and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0023",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on skin infections, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of skin infections.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0024",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of drug eruptions. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For drug eruptions, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0025",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with melanoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0026",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected psoriasis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0027",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of eczema. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to eczema, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize eczema and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0028",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on bullous disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of bullous disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0029",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of skin infections. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For skin infections, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0030",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with drug eruptions?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0031",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected melanoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0032",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of psoriasis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to psoriasis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize psoriasis and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0033",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on eczema, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of eczema.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0034",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of bullous disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For bullous disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0035",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with skin infections?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0036",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected drug eruptions has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0037",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of melanoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to melanoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize melanoma and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0038",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on psoriasis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of psoriasis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0039",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of eczema. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For eczema, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0040",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with bullous disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0041",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected skin infections has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0042",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of drug eruptions. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to drug eruptions, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize drug eruptions and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0043",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on melanoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of melanoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0044",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of psoriasis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For psoriasis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0045",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with eczema?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0046",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected bullous disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0047",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of skin infections. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to skin infections, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize skin infections and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0048",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on drug eruptions, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of drug eruptions.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0049",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of melanoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For melanoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0050",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with psoriasis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0051",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected eczema has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0052",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of bullous disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to bullous disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize bullous disease and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0053",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on skin infections, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of skin infections.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0054",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of drug eruptions. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For drug eruptions, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0055",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with melanoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0056",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected psoriasis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0057",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of eczema. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to eczema, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize eczema and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0058",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on bullous disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of bullous disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0059",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of skin infections. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For skin infections, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0060",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with drug eruptions?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0061",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected melanoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0062",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of psoriasis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to psoriasis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize psoriasis and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0063",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on eczema, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of eczema.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0064",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of bullous disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For bullous disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0065",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with skin infections?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0066",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected drug eruptions has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0067",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of melanoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to melanoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize melanoma and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0068",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on psoriasis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of psoriasis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0069",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of eczema. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For eczema, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0070",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with bullous disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0071",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected skin infections has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0072",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of drug eruptions. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to drug eruptions, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize drug eruptions and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0073",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on melanoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of melanoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0074",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of psoriasis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For psoriasis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0075",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with eczema?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0076",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected bullous disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0077",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of skin infections. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to skin infections, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize skin infections and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0078",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on drug eruptions, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of drug eruptions.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0079",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of melanoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For melanoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0080",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with psoriasis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0081",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected eczema has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0082",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of bullous disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to bullous disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize bullous disease and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0083",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on skin infections, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of skin infections.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0084",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of drug eruptions. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For drug eruptions, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0085",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with melanoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0086",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected psoriasis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0087",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of eczema. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to eczema, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize eczema and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0088",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on bullous disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of bullous disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0089",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of skin infections. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For skin infections, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0090",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with drug eruptions?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0091",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected melanoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0092",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of psoriasis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to psoriasis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize psoriasis and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0093",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on eczema, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of eczema.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0094",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of bullous disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For bullous disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0095",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with skin infections?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0096",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected drug eruptions has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0097",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of melanoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to melanoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize melanoma and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0098",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on psoriasis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of psoriasis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0099",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of eczema. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For eczema, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0100",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with bullous disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0101",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected skin infections has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0102",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of drug eruptions. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to drug eruptions, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize drug eruptions and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0103",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on melanoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of melanoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0104",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of psoriasis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For psoriasis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0105",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with eczema?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0106",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected bullous disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0107",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of skin infections. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to skin infections, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize skin infections and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0108",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on drug eruptions, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of drug eruptions.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0109",
+      "topic": "Dermatology",
+      "subtopic": "Melanoma",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of melanoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For melanoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "melanoma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0110",
+      "topic": "Dermatology",
+      "subtopic": "Psoriasis",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with psoriasis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "dermatology",
+        "psoriasis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0111",
+      "topic": "Dermatology",
+      "subtopic": "Eczema",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected eczema has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "dermatology",
+        "eczema",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0112",
+      "topic": "Dermatology",
+      "subtopic": "Bullous disease",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of bullous disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to bullous disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize bullous disease and choose the safest evidence-based first step.",
+      "tags": [
+        "dermatology",
+        "bullous-disease",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0113",
+      "topic": "Dermatology",
+      "subtopic": "Skin infections",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on skin infections, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of skin infections.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "dermatology",
+        "skin-infections",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-dermatology-0114",
+      "topic": "Dermatology",
+      "subtopic": "Drug eruptions",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of drug eruptions. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For drug eruptions, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "dermatology",
+        "drug-eruptions",
+        "a",
+        "easy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2741 @@
+{
+  "topic": "Hematology",
+  "questions": [
+    {
+      "id": "ssm-hematology-0001",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of anemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For anemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0002",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with leukemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0003",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected lymphoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0004",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of coagulation. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to coagulation, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize coagulation and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0005",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on transfusion, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of transfusion.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0006",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of myeloma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For myeloma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0007",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with anemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0008",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected leukemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0009",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of lymphoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to lymphoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize lymphoma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0010",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on coagulation, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of coagulation.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0011",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of transfusion. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For transfusion, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0012",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with myeloma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0013",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected anemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0014",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of leukemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to leukemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize leukemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0015",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on lymphoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of lymphoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0016",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of coagulation. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For coagulation, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0017",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with transfusion?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0018",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected myeloma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0019",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of anemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to anemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize anemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0020",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on leukemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of leukemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0021",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of lymphoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For lymphoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0022",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with coagulation?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0023",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected transfusion has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0024",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of myeloma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to myeloma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize myeloma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0025",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on anemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of anemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0026",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of leukemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For leukemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0027",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with lymphoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0028",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected coagulation has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0029",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of transfusion. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to transfusion, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize transfusion and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0030",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on myeloma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of myeloma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0031",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of anemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For anemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0032",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with leukemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0033",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected lymphoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0034",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of coagulation. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to coagulation, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize coagulation and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0035",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on transfusion, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of transfusion.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0036",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of myeloma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For myeloma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0037",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with anemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0038",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected leukemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0039",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of lymphoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to lymphoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize lymphoma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0040",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on coagulation, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of coagulation.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0041",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of transfusion. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For transfusion, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0042",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with myeloma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0043",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected anemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0044",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of leukemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to leukemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize leukemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0045",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on lymphoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of lymphoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0046",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of coagulation. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For coagulation, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0047",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with transfusion?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0048",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected myeloma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0049",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of anemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to anemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize anemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0050",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on leukemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of leukemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0051",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of lymphoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For lymphoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0052",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with coagulation?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0053",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected transfusion has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0054",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of myeloma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to myeloma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize myeloma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0055",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on anemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of anemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0056",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of leukemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For leukemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0057",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with lymphoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0058",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected coagulation has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0059",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of transfusion. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to transfusion, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize transfusion and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0060",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on myeloma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of myeloma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0061",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of anemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For anemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0062",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with leukemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0063",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected lymphoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0064",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of coagulation. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to coagulation, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize coagulation and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0065",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on transfusion, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of transfusion.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0066",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of myeloma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For myeloma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0067",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with anemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0068",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected leukemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0069",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of lymphoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to lymphoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize lymphoma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0070",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on coagulation, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of coagulation.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0071",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of transfusion. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For transfusion, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0072",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with myeloma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0073",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected anemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0074",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of leukemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to leukemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize leukemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0075",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on lymphoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of lymphoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0076",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of coagulation. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For coagulation, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0077",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with transfusion?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0078",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected myeloma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0079",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of anemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to anemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize anemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0080",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on leukemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of leukemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0081",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of lymphoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For lymphoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0082",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with coagulation?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0083",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected transfusion has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0084",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of myeloma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to myeloma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize myeloma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0085",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on anemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of anemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0086",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of leukemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For leukemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0087",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with lymphoma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0088",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected coagulation has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0089",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of transfusion. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to transfusion, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize transfusion and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0090",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on myeloma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of myeloma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0091",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of anemia. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For anemia, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0092",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with leukemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0093",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected lymphoma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0094",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of coagulation. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to coagulation, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize coagulation and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0095",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on transfusion, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of transfusion.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0096",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of myeloma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For myeloma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0097",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with anemia?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0098",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected leukemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0099",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of lymphoma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to lymphoma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize lymphoma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0100",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on coagulation, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of coagulation.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0101",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of transfusion. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For transfusion, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0102",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with myeloma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0103",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected anemia has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0104",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of leukemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to leukemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize leukemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0105",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on lymphoma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of lymphoma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0106",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of coagulation. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For coagulation, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0107",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with transfusion?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0108",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected myeloma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0109",
+      "topic": "Hematology",
+      "subtopic": "Anemia",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of anemia. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to anemia, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize anemia and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "anemia",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0110",
+      "topic": "Hematology",
+      "subtopic": "Leukemia",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on leukemia, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of leukemia.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "hematology",
+        "leukemia",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0111",
+      "topic": "Hematology",
+      "subtopic": "Lymphoma",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of lymphoma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For lymphoma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "hematology",
+        "lymphoma",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0112",
+      "topic": "Hematology",
+      "subtopic": "Coagulation",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with coagulation?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "hematology",
+        "coagulation",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0113",
+      "topic": "Hematology",
+      "subtopic": "Transfusion",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected transfusion has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "hematology",
+        "transfusion",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-hematology-0114",
+      "topic": "Hematology",
+      "subtopic": "Myeloma",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of myeloma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to myeloma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize myeloma and choose the safest evidence-based first step.",
+      "tags": [
+        "hematology",
+        "myeloma",
+        "a",
+        "easy"
+      ]
+    }
+  ]
+}

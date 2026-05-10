@@ -1,0 +1,2717 @@
+{
+  "topic": "Orthopedics",
+  "questions": [
+    {
+      "id": "ssm-orthopedics-0001",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of fractures. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to fractures, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize fractures and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0002",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on osteoarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of osteoarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0003",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of back pain. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For back pain, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0004",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sports injuries?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0005",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected pediatric orthopedics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0006",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of septic arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to septic arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize septic arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0007",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on fractures, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of fractures.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0008",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of osteoarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For osteoarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0009",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with back pain?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0010",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected sports injuries has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0011",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of pediatric orthopedics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pediatric orthopedics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pediatric orthopedics and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0012",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on septic arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of septic arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0013",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of fractures. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For fractures, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0014",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with osteoarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0015",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected back pain has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0016",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of sports injuries. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sports injuries, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sports injuries and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0017",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on pediatric orthopedics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pediatric orthopedics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0018",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of septic arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For septic arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0019",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with fractures?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0020",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected osteoarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0021",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of back pain. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to back pain, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize back pain and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0022",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on sports injuries, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sports injuries.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0023",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of pediatric orthopedics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pediatric orthopedics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0024",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with septic arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0025",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected fractures has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0026",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of osteoarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to osteoarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize osteoarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0027",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on back pain, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of back pain.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0028",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of sports injuries. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sports injuries, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0029",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pediatric orthopedics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0030",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected septic arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0031",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of fractures. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to fractures, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize fractures and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0032",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on osteoarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of osteoarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0033",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of back pain. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For back pain, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0034",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sports injuries?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0035",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected pediatric orthopedics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0036",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of septic arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to septic arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize septic arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0037",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on fractures, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of fractures.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0038",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of osteoarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For osteoarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0039",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with back pain?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0040",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected sports injuries has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0041",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of pediatric orthopedics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pediatric orthopedics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pediatric orthopedics and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0042",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on septic arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of septic arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0043",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of fractures. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For fractures, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0044",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with osteoarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0045",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected back pain has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0046",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of sports injuries. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sports injuries, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sports injuries and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0047",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on pediatric orthopedics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pediatric orthopedics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0048",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of septic arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For septic arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0049",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with fractures?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0050",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected osteoarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0051",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of back pain. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to back pain, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize back pain and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0052",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on sports injuries, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sports injuries.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0053",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of pediatric orthopedics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pediatric orthopedics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0054",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with septic arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0055",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected fractures has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0056",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of osteoarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to osteoarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize osteoarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0057",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on back pain, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of back pain.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0058",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of sports injuries. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sports injuries, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0059",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pediatric orthopedics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0060",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected septic arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0061",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of fractures. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to fractures, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize fractures and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0062",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on osteoarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of osteoarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0063",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of back pain. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For back pain, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0064",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sports injuries?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0065",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected pediatric orthopedics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0066",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of septic arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to septic arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize septic arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0067",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on fractures, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of fractures.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0068",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of osteoarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For osteoarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0069",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with back pain?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0070",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected sports injuries has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0071",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of pediatric orthopedics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pediatric orthopedics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pediatric orthopedics and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0072",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on septic arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of septic arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0073",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of fractures. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For fractures, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0074",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with osteoarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0075",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected back pain has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0076",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of sports injuries. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sports injuries, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sports injuries and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0077",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on pediatric orthopedics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pediatric orthopedics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0078",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of septic arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For septic arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0079",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with fractures?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0080",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected osteoarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0081",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of back pain. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to back pain, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize back pain and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0082",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on sports injuries, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sports injuries.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0083",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of pediatric orthopedics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pediatric orthopedics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0084",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with septic arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0085",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected fractures has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0086",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of osteoarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to osteoarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize osteoarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0087",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on back pain, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of back pain.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0088",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of sports injuries. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sports injuries, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0089",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pediatric orthopedics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0090",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected septic arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0091",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of fractures. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to fractures, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize fractures and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0092",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on osteoarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of osteoarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0093",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of back pain. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For back pain, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0094",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sports injuries?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0095",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected pediatric orthopedics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0096",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of septic arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to septic arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize septic arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0097",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on fractures, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of fractures.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0098",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of osteoarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For osteoarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0099",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with back pain?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0100",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected sports injuries has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0101",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of pediatric orthopedics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pediatric orthopedics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pediatric orthopedics and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0102",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on septic arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of septic arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0103",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of fractures. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For fractures, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0104",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with osteoarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0105",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected back pain has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0106",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of sports injuries. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sports injuries, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sports injuries and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0107",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on pediatric orthopedics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pediatric orthopedics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0108",
+      "topic": "Orthopedics",
+      "subtopic": "Septic arthritis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of septic arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For septic arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "septic-arthritis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0109",
+      "topic": "Orthopedics",
+      "subtopic": "Fractures",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with fractures?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "orthopedics",
+        "fractures",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0110",
+      "topic": "Orthopedics",
+      "subtopic": "Osteoarthritis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected osteoarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "orthopedics",
+        "osteoarthritis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0111",
+      "topic": "Orthopedics",
+      "subtopic": "Back pain",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of back pain. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to back pain, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize back pain and choose the safest evidence-based first step.",
+      "tags": [
+        "orthopedics",
+        "back-pain",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0112",
+      "topic": "Orthopedics",
+      "subtopic": "Sports injuries",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on sports injuries, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sports injuries.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "orthopedics",
+        "sports-injuries",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-orthopedics-0113",
+      "topic": "Orthopedics",
+      "subtopic": "Pediatric orthopedics",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of pediatric orthopedics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pediatric orthopedics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "orthopedics",
+        "pediatric-orthopedics",
+        "a",
+        "medium"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2741 @@
+{
+  "topic": "Rheumatology",
+  "questions": [
+    {
+      "id": "ssm-rheumatology-0001",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of rheumatoid arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rheumatoid arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rheumatoid arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0002",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on sle, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sle.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0003",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of vasculitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vasculitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0004",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with spondyloarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0005",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected gout has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0006",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of systemic sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to systemic sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize systemic sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0007",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on rheumatoid arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rheumatoid arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0008",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of sle. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sle, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0009",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vasculitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0010",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected spondyloarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0011",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of gout. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gout, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gout and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0012",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on systemic sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of systemic sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0013",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of rheumatoid arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rheumatoid arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0014",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sle?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0015",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected vasculitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0016",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of spondyloarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to spondyloarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize spondyloarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0017",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on gout, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gout.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0018",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of systemic sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For systemic sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0019",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rheumatoid arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0020",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected sle has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0021",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of vasculitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vasculitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vasculitis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0022",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on spondyloarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of spondyloarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0023",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of gout. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gout, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0024",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with systemic sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0025",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected rheumatoid arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0026",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of sle. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sle, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sle and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0027",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on vasculitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vasculitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0028",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of spondyloarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For spondyloarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0029",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gout?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0030",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected systemic sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0031",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of rheumatoid arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rheumatoid arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rheumatoid arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0032",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on sle, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sle.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0033",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of vasculitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vasculitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0034",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with spondyloarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0035",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected gout has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0036",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of systemic sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to systemic sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize systemic sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0037",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on rheumatoid arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rheumatoid arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0038",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of sle. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sle, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0039",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vasculitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0040",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected spondyloarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0041",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of gout. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gout, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gout and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0042",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on systemic sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of systemic sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0043",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of rheumatoid arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rheumatoid arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0044",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sle?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0045",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected vasculitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0046",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of spondyloarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to spondyloarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize spondyloarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0047",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on gout, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gout.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0048",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of systemic sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For systemic sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0049",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rheumatoid arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0050",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected sle has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0051",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of vasculitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vasculitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vasculitis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0052",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on spondyloarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of spondyloarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0053",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of gout. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gout, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0054",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with systemic sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0055",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected rheumatoid arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0056",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of sle. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sle, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sle and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0057",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on vasculitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vasculitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0058",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of spondyloarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For spondyloarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0059",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gout?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0060",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected systemic sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0061",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of rheumatoid arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rheumatoid arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rheumatoid arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0062",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on sle, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sle.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0063",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of vasculitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vasculitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0064",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with spondyloarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0065",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected gout has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0066",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of systemic sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to systemic sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize systemic sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0067",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on rheumatoid arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rheumatoid arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0068",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of sle. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sle, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0069",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vasculitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0070",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected spondyloarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0071",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of gout. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gout, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gout and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0072",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on systemic sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of systemic sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0073",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of rheumatoid arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rheumatoid arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0074",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sle?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0075",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected vasculitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0076",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of spondyloarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to spondyloarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize spondyloarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0077",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on gout, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gout.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0078",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of systemic sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For systemic sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0079",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rheumatoid arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0080",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected sle has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0081",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of vasculitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vasculitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vasculitis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0082",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on spondyloarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of spondyloarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0083",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of gout. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gout, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0084",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with systemic sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0085",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected rheumatoid arthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0086",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of sle. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to sle, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize sle and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0087",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on vasculitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vasculitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0088",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of spondyloarthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For spondyloarthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0089",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gout?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0090",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected systemic sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0091",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of rheumatoid arthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rheumatoid arthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rheumatoid arthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0092",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on sle, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of sle.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0093",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of vasculitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vasculitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0094",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with spondyloarthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0095",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected gout has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0096",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of systemic sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to systemic sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize systemic sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0097",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on rheumatoid arthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rheumatoid arthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0098",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of sle. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For sle, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0099",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vasculitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0100",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected spondyloarthritis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0101",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of gout. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gout, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gout and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0102",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on systemic sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of systemic sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0103",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of rheumatoid arthritis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rheumatoid arthritis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0104",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with sle?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0105",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected vasculitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0106",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of spondyloarthritis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to spondyloarthritis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize spondyloarthritis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0107",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on gout, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gout.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0108",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of systemic sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For systemic sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0109",
+      "topic": "Rheumatology",
+      "subtopic": "Rheumatoid arthritis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rheumatoid arthritis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "rheumatoid-arthritis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0110",
+      "topic": "Rheumatology",
+      "subtopic": "SLE",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected sle has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "rheumatology",
+        "sle",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0111",
+      "topic": "Rheumatology",
+      "subtopic": "Vasculitis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of vasculitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vasculitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vasculitis and choose the safest evidence-based first step.",
+      "tags": [
+        "rheumatology",
+        "vasculitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0112",
+      "topic": "Rheumatology",
+      "subtopic": "Spondyloarthritis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on spondyloarthritis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of spondyloarthritis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "rheumatology",
+        "spondyloarthritis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0113",
+      "topic": "Rheumatology",
+      "subtopic": "Gout",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of gout. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gout, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "rheumatology",
+        "gout",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-rheumatology-0114",
+      "topic": "Rheumatology",
+      "subtopic": "Systemic sclerosis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with systemic sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "rheumatology",
+        "systemic-sclerosis",
+        "which",
+        "easy"
+      ]
+    }
+  ]
+}

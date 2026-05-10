@@ -1,0 +1,2741 @@
+{
+  "topic": "General surgery",
+  "questions": [
+    {
+      "id": "ssm-general_surgery-0001",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with acute abdomen?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0002",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected hernias has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0003",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of biliary surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to biliary surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize biliary surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0004",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on trauma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of trauma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0005",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of postoperative care. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For postoperative care, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0006",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with colorectal surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0007",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected acute abdomen has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0008",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of hernias. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hernias, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hernias and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0009",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on biliary surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of biliary surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0010",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of trauma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For trauma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0011",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with postoperative care?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0012",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected colorectal surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0013",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of acute abdomen. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to acute abdomen, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize acute abdomen and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0014",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on hernias, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hernias.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0015",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of biliary surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For biliary surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0016",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with trauma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0017",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected postoperative care has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0018",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of colorectal surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to colorectal surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize colorectal surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0019",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on acute abdomen, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of acute abdomen.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0020",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of hernias. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hernias, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0021",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with biliary surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0022",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected trauma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0023",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of postoperative care. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to postoperative care, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize postoperative care and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0024",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on colorectal surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of colorectal surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0025",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of acute abdomen. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For acute abdomen, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0026",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hernias?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0027",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected biliary surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0028",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of trauma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to trauma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize trauma and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0029",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on postoperative care, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of postoperative care.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0030",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of colorectal surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For colorectal surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0031",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with acute abdomen?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0032",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected hernias has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0033",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of biliary surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to biliary surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize biliary surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0034",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on trauma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of trauma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0035",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of postoperative care. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For postoperative care, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0036",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with colorectal surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0037",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected acute abdomen has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0038",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of hernias. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hernias, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hernias and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0039",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on biliary surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of biliary surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0040",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of trauma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For trauma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0041",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with postoperative care?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0042",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected colorectal surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0043",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of acute abdomen. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to acute abdomen, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize acute abdomen and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0044",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on hernias, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hernias.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0045",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of biliary surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For biliary surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0046",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with trauma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0047",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected postoperative care has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0048",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of colorectal surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to colorectal surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize colorectal surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0049",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on acute abdomen, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of acute abdomen.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0050",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of hernias. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hernias, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0051",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with biliary surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0052",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected trauma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0053",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of postoperative care. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to postoperative care, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize postoperative care and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0054",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on colorectal surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of colorectal surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0055",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of acute abdomen. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For acute abdomen, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0056",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hernias?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0057",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected biliary surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0058",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of trauma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to trauma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize trauma and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0059",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on postoperative care, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of postoperative care.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0060",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of colorectal surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For colorectal surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0061",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with acute abdomen?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0062",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected hernias has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0063",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of biliary surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to biliary surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize biliary surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0064",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on trauma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of trauma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0065",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of postoperative care. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For postoperative care, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0066",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with colorectal surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0067",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected acute abdomen has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0068",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of hernias. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hernias, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hernias and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0069",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on biliary surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of biliary surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0070",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of trauma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For trauma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0071",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with postoperative care?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0072",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected colorectal surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0073",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of acute abdomen. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to acute abdomen, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize acute abdomen and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0074",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on hernias, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hernias.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0075",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of biliary surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For biliary surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0076",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with trauma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0077",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected postoperative care has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0078",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of colorectal surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to colorectal surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize colorectal surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0079",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on acute abdomen, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of acute abdomen.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0080",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of hernias. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hernias, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0081",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with biliary surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0082",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected trauma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0083",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of postoperative care. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to postoperative care, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize postoperative care and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0084",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on colorectal surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of colorectal surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0085",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of acute abdomen. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For acute abdomen, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0086",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hernias?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0087",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected biliary surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0088",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of trauma. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to trauma, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize trauma and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0089",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on postoperative care, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of postoperative care.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0090",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of colorectal surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For colorectal surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0091",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with acute abdomen?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0092",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected hernias has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0093",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of biliary surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to biliary surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize biliary surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0094",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on trauma, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of trauma.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0095",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of postoperative care. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For postoperative care, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0096",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with colorectal surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0097",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected acute abdomen has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0098",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of hernias. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hernias, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hernias and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0099",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on biliary surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of biliary surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0100",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of trauma. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For trauma, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0101",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with postoperative care?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0102",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected colorectal surgery has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0103",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of acute abdomen. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to acute abdomen, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize acute abdomen and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0104",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on hernias, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hernias.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0105",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of biliary surgery. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For biliary surgery, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0106",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with trauma?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0107",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected postoperative care has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0108",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of colorectal surgery. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to colorectal surgery, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize colorectal surgery and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0109",
+      "topic": "General surgery",
+      "subtopic": "Acute abdomen",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on acute abdomen, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of acute abdomen.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "acute-abdomen",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0110",
+      "topic": "General surgery",
+      "subtopic": "Hernias",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of hernias. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hernias, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "general-surgery",
+        "hernias",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0111",
+      "topic": "General surgery",
+      "subtopic": "Biliary surgery",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with biliary surgery?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "general-surgery",
+        "biliary-surgery",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0112",
+      "topic": "General surgery",
+      "subtopic": "Trauma",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected trauma has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "general-surgery",
+        "trauma",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0113",
+      "topic": "General surgery",
+      "subtopic": "Postoperative care",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of postoperative care. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to postoperative care, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize postoperative care and choose the safest evidence-based first step.",
+      "tags": [
+        "general-surgery",
+        "postoperative-care",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-general_surgery-0114",
+      "topic": "General surgery",
+      "subtopic": "Colorectal surgery",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on colorectal surgery, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of colorectal surgery.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "general-surgery",
+        "colorectal-surgery",
+        "in",
+        "easy"
+      ]
+    }
+  ]
+}

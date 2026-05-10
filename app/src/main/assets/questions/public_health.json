@@ -1,0 +1,2717 @@
+{
+  "topic": "Public health",
+  "questions": [
+    {
+      "id": "ssm-public_health-0001",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with prevention?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0002",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected health systems has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0003",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of occupational health. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to occupational health, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize occupational health and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0004",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on vaccination policy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vaccination policy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0005",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of outbreak management. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For outbreak management, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0006",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with ethics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0007",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected prevention has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0008",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of health systems. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to health systems, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize health systems and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0009",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on occupational health, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of occupational health.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0010",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of vaccination policy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vaccination policy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0011",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with outbreak management?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0012",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected ethics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0013",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of prevention. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to prevention, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize prevention and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0014",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on health systems, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of health systems.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0015",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of occupational health. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For occupational health, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0016",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vaccination policy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0017",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected outbreak management has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0018",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of ethics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to ethics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize ethics and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0019",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on prevention, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of prevention.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0020",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of health systems. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For health systems, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0021",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with occupational health?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0022",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected vaccination policy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0023",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of outbreak management. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to outbreak management, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize outbreak management and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0024",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on ethics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of ethics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0025",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of prevention. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For prevention, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0026",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with health systems?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0027",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected occupational health has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0028",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of vaccination policy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vaccination policy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vaccination policy and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0029",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on outbreak management, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of outbreak management.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0030",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of ethics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For ethics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0031",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with prevention?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0032",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected health systems has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0033",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of occupational health. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to occupational health, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize occupational health and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0034",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on vaccination policy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vaccination policy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0035",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of outbreak management. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For outbreak management, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0036",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with ethics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0037",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected prevention has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0038",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of health systems. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to health systems, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize health systems and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0039",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on occupational health, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of occupational health.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0040",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of vaccination policy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vaccination policy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0041",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with outbreak management?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0042",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected ethics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0043",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of prevention. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to prevention, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize prevention and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0044",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on health systems, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of health systems.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0045",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of occupational health. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For occupational health, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0046",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vaccination policy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0047",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected outbreak management has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0048",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of ethics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to ethics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize ethics and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0049",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on prevention, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of prevention.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0050",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of health systems. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For health systems, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0051",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with occupational health?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0052",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected vaccination policy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0053",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of outbreak management. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to outbreak management, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize outbreak management and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0054",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on ethics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of ethics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0055",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of prevention. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For prevention, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0056",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with health systems?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0057",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected occupational health has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0058",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of vaccination policy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vaccination policy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vaccination policy and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0059",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on outbreak management, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of outbreak management.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0060",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of ethics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For ethics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0061",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with prevention?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0062",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected health systems has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0063",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of occupational health. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to occupational health, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize occupational health and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0064",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on vaccination policy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vaccination policy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0065",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of outbreak management. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For outbreak management, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0066",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with ethics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0067",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected prevention has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0068",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of health systems. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to health systems, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize health systems and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0069",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on occupational health, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of occupational health.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0070",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of vaccination policy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vaccination policy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0071",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with outbreak management?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0072",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected ethics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0073",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of prevention. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to prevention, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize prevention and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0074",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on health systems, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of health systems.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0075",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of occupational health. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For occupational health, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0076",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vaccination policy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0077",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected outbreak management has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0078",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of ethics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to ethics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize ethics and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0079",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on prevention, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of prevention.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0080",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of health systems. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For health systems, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0081",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with occupational health?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0082",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected vaccination policy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0083",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of outbreak management. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to outbreak management, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize outbreak management and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0084",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on ethics, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of ethics.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0085",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of prevention. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For prevention, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0086",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with health systems?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0087",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected occupational health has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0088",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of vaccination policy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vaccination policy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vaccination policy and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0089",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on outbreak management, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of outbreak management.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0090",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of ethics. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For ethics, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0091",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with prevention?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0092",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected health systems has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0093",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of occupational health. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to occupational health, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize occupational health and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0094",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on vaccination policy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vaccination policy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0095",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of outbreak management. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For outbreak management, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0096",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with ethics?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0097",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected prevention has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0098",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of health systems. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to health systems, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize health systems and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0099",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on occupational health, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of occupational health.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0100",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of vaccination policy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vaccination policy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0101",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with outbreak management?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0102",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected ethics has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0103",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of prevention. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to prevention, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize prevention and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0104",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on health systems, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of health systems.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0105",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of occupational health. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For occupational health, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0106",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vaccination policy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0107",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected outbreak management has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0108",
+      "topic": "Public health",
+      "subtopic": "Ethics",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of ethics. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to ethics, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize ethics and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "ethics",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0109",
+      "topic": "Public health",
+      "subtopic": "Prevention",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on prevention, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of prevention.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "public-health",
+        "prevention",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0110",
+      "topic": "Public health",
+      "subtopic": "Health systems",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of health systems. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For health systems, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "public-health",
+        "health-systems",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0111",
+      "topic": "Public health",
+      "subtopic": "Occupational health",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with occupational health?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "public-health",
+        "occupational-health",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0112",
+      "topic": "Public health",
+      "subtopic": "Vaccination policy",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected vaccination policy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "public-health",
+        "vaccination-policy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-public_health-0113",
+      "topic": "Public health",
+      "subtopic": "Outbreak management",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of outbreak management. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to outbreak management, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize outbreak management and choose the safest evidence-based first step.",
+      "tags": [
+        "public-health",
+        "outbreak-management",
+        "a",
+        "easy"
+      ]
+    }
+  ]
+}

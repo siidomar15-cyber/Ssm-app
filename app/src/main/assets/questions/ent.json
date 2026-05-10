@@ -1,0 +1,2717 @@
+{
+  "topic": "ENT",
+  "questions": [
+    {
+      "id": "ssm-ent-0001",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of otitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For otitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0002",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vertigo?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0003",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected rhinosinusitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0004",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of head and neck cancer. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to head and neck cancer, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize head and neck cancer and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0005",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on hearing loss, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hearing loss.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0006",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of airway. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For airway, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0007",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with otitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "otitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0008",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected vertigo has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0009",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of rhinosinusitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rhinosinusitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rhinosinusitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0010",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on head and neck cancer, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of head and neck cancer.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0011",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of hearing loss. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hearing loss, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0012",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with airway?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "airway",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0013",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected otitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0014",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of vertigo. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vertigo, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vertigo and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0015",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on rhinosinusitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rhinosinusitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0016",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of head and neck cancer. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For head and neck cancer, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0017",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hearing loss?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0018",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected airway has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0019",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of otitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to otitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize otitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0020",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on vertigo, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vertigo.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0021",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of rhinosinusitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rhinosinusitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0022",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with head and neck cancer?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0023",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected hearing loss has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0024",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of airway. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to airway, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize airway and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0025",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on otitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of otitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "otitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0026",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of vertigo. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vertigo, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0027",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rhinosinusitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0028",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected head and neck cancer has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0029",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of hearing loss. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hearing loss, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hearing loss and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0030",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on airway, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of airway.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "airway",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0031",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of otitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For otitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0032",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vertigo?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0033",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected rhinosinusitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0034",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of head and neck cancer. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to head and neck cancer, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize head and neck cancer and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0035",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on hearing loss, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hearing loss.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0036",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of airway. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For airway, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0037",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with otitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "otitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0038",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected vertigo has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0039",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of rhinosinusitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rhinosinusitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rhinosinusitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0040",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on head and neck cancer, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of head and neck cancer.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0041",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of hearing loss. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hearing loss, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0042",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with airway?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "airway",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0043",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected otitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0044",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of vertigo. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vertigo, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vertigo and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0045",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on rhinosinusitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rhinosinusitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0046",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of head and neck cancer. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For head and neck cancer, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0047",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hearing loss?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0048",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected airway has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0049",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of otitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to otitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize otitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0050",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on vertigo, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vertigo.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0051",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of rhinosinusitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rhinosinusitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0052",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with head and neck cancer?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0053",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected hearing loss has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0054",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of airway. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to airway, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize airway and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0055",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on otitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of otitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "otitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0056",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of vertigo. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vertigo, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0057",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rhinosinusitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0058",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected head and neck cancer has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0059",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of hearing loss. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hearing loss, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hearing loss and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0060",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on airway, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of airway.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "airway",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0061",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of otitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For otitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0062",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vertigo?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0063",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected rhinosinusitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0064",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of head and neck cancer. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to head and neck cancer, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize head and neck cancer and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0065",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on hearing loss, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hearing loss.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0066",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of airway. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For airway, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0067",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with otitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "otitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0068",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected vertigo has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0069",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of rhinosinusitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rhinosinusitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rhinosinusitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0070",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on head and neck cancer, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of head and neck cancer.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0071",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of hearing loss. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hearing loss, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0072",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with airway?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "airway",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0073",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected otitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0074",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of vertigo. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vertigo, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vertigo and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0075",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on rhinosinusitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rhinosinusitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0076",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of head and neck cancer. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For head and neck cancer, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0077",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hearing loss?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0078",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected airway has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0079",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of otitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to otitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize otitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0080",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on vertigo, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vertigo.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0081",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of rhinosinusitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rhinosinusitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0082",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with head and neck cancer?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0083",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected hearing loss has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0084",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of airway. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to airway, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize airway and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0085",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on otitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of otitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "otitis",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0086",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of vertigo. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For vertigo, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0087",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with rhinosinusitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0088",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected head and neck cancer has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0089",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of hearing loss. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to hearing loss, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize hearing loss and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0090",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on airway, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of airway.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "airway",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0091",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of otitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For otitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0092",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with vertigo?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0093",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected rhinosinusitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0094",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of head and neck cancer. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to head and neck cancer, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize head and neck cancer and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0095",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on hearing loss, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of hearing loss.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0096",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of airway. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For airway, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0097",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with otitis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "otitis",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0098",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected vertigo has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0099",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of rhinosinusitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to rhinosinusitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize rhinosinusitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0100",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on head and neck cancer, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of head and neck cancer.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0101",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of hearing loss. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For hearing loss, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0102",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with airway?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "airway",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0103",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected otitis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0104",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of vertigo. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to vertigo, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize vertigo and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0105",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on rhinosinusitis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of rhinosinusitis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0106",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of head and neck cancer. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For head and neck cancer, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0107",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with hearing loss?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0108",
+      "topic": "ENT",
+      "subtopic": "Airway",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected airway has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "airway",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0109",
+      "topic": "ENT",
+      "subtopic": "Otitis",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of otitis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to otitis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize otitis and choose the safest evidence-based first step.",
+      "tags": [
+        "ent",
+        "otitis",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0110",
+      "topic": "ENT",
+      "subtopic": "Vertigo",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on vertigo, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of vertigo.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "ent",
+        "vertigo",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-ent-0111",
+      "topic": "ENT",
+      "subtopic": "Rhinosinusitis",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of rhinosinusitis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For rhinosinusitis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "ent",
+        "rhinosinusitis",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-ent-0112",
+      "topic": "ENT",
+      "subtopic": "Head and neck cancer",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with head and neck cancer?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "ent",
+        "head-and-neck-cancer",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-ent-0113",
+      "topic": "ENT",
+      "subtopic": "Hearing loss",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected hearing loss has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "ent",
+        "hearing-loss",
+        "a",
+        "hard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2741 @@
+{
+  "topic": "Neurology",
+  "questions": [
+    {
+      "id": "ssm-neurology-0001",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on stroke, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of stroke.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0002",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of epilepsy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For epilepsy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0003",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with headache?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "headache",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0004",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected multiple sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0005",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of movement disorders. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to movement disorders, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize movement disorders and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0006",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on neuromuscular disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of neuromuscular disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0007",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of stroke. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For stroke, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0008",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with epilepsy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0009",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected headache has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0010",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of multiple sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to multiple sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize multiple sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0011",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on movement disorders, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of movement disorders.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0012",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of neuromuscular disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For neuromuscular disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0013",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with stroke?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0014",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected epilepsy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0015",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of headache. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to headache, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize headache and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0016",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on multiple sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of multiple sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0017",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of movement disorders. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For movement disorders, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0018",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with neuromuscular disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0019",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected stroke has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0020",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of epilepsy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to epilepsy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize epilepsy and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0021",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on headache, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of headache.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "headache",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0022",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of multiple sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For multiple sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0023",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with movement disorders?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0024",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected neuromuscular disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0025",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of stroke. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to stroke, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize stroke and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0026",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on epilepsy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of epilepsy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0027",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of headache. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For headache, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0028",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with multiple sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0029",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected movement disorders has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0030",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of neuromuscular disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to neuromuscular disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize neuromuscular disease and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0031",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on stroke, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of stroke.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0032",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of epilepsy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For epilepsy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0033",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with headache?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "headache",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0034",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected multiple sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0035",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of movement disorders. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to movement disorders, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize movement disorders and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0036",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on neuromuscular disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of neuromuscular disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0037",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of stroke. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For stroke, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0038",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with epilepsy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0039",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected headache has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0040",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of multiple sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to multiple sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize multiple sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0041",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on movement disorders, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of movement disorders.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0042",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of neuromuscular disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For neuromuscular disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0043",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with stroke?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0044",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected epilepsy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0045",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of headache. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to headache, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize headache and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0046",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on multiple sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of multiple sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0047",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of movement disorders. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For movement disorders, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0048",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with neuromuscular disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0049",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected stroke has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0050",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of epilepsy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to epilepsy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize epilepsy and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0051",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on headache, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of headache.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "headache",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0052",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of multiple sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For multiple sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0053",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with movement disorders?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0054",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected neuromuscular disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0055",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of stroke. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to stroke, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize stroke and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0056",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on epilepsy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of epilepsy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0057",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of headache. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For headache, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0058",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with multiple sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0059",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected movement disorders has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0060",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of neuromuscular disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to neuromuscular disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize neuromuscular disease and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0061",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on stroke, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of stroke.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0062",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of epilepsy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For epilepsy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0063",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with headache?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "headache",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0064",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected multiple sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0065",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of movement disorders. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to movement disorders, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize movement disorders and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0066",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on neuromuscular disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of neuromuscular disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0067",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of stroke. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For stroke, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0068",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with epilepsy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0069",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected headache has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0070",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of multiple sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to multiple sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize multiple sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0071",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on movement disorders, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of movement disorders.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0072",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of neuromuscular disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For neuromuscular disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0073",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with stroke?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0074",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected epilepsy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0075",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of headache. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to headache, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize headache and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0076",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on multiple sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of multiple sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0077",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of movement disorders. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For movement disorders, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0078",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with neuromuscular disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0079",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected stroke has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0080",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of epilepsy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to epilepsy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize epilepsy and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0081",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on headache, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of headache.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "headache",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0082",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of multiple sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For multiple sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0083",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with movement disorders?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0084",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected neuromuscular disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0085",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of stroke. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to stroke, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize stroke and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0086",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on epilepsy, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of epilepsy.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0087",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of headache. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For headache, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0088",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with multiple sclerosis?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0089",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected movement disorders has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0090",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of neuromuscular disease. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to neuromuscular disease, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize neuromuscular disease and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0091",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on stroke, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of stroke.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0092",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of epilepsy. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For epilepsy, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0093",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with headache?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "headache",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0094",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected multiple sclerosis has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0095",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of movement disorders. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to movement disorders, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize movement disorders and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0096",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on neuromuscular disease, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of neuromuscular disease.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0097",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of stroke. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For stroke, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0098",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with epilepsy?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0099",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected headache has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0100",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of multiple sclerosis. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to multiple sclerosis, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize multiple sclerosis and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0101",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on movement disorders, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of movement disorders.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0102",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of neuromuscular disease. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For neuromuscular disease, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0103",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with stroke?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0104",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected epilepsy has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0105",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of headache. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to headache, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize headache and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "headache",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0106",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on multiple sclerosis, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of multiple sclerosis.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0107",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of movement disorders. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For movement disorders, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0108",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with neuromuscular disease?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0109",
+      "topic": "Neurology",
+      "subtopic": "Stroke",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected stroke has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "stroke",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0110",
+      "topic": "Neurology",
+      "subtopic": "Epilepsy",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of epilepsy. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to epilepsy, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize epilepsy and choose the safest evidence-based first step.",
+      "tags": [
+        "neurology",
+        "epilepsy",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0111",
+      "topic": "Neurology",
+      "subtopic": "Headache",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on headache, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of headache.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "neurology",
+        "headache",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0112",
+      "topic": "Neurology",
+      "subtopic": "Multiple sclerosis",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of multiple sclerosis. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For multiple sclerosis, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "neurology",
+        "multiple-sclerosis",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0113",
+      "topic": "Neurology",
+      "subtopic": "Movement disorders",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with movement disorders?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "neurology",
+        "movement-disorders",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-neurology-0114",
+      "topic": "Neurology",
+      "subtopic": "Neuromuscular disease",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected neuromuscular disease has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "neurology",
+        "neuromuscular-disease",
+        "a",
+        "easy"
+      ]
+    }
+  ]
+}

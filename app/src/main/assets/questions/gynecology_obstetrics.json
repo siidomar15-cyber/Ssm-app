@@ -1,0 +1,2717 @@
+{
+  "topic": "Gynecology and obstetrics",
+  "questions": [
+    {
+      "id": "ssm-gynecology_obstetrics-0001",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on pregnancy complications, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pregnancy complications.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0002",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of contraception. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For contraception, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0003",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gynecologic oncology?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0004",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected infertility has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0005",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of menopause. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to menopause, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize menopause and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0006",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on labor, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of labor.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0007",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of pregnancy complications. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pregnancy complications, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0008",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with contraception?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0009",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected gynecologic oncology has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0010",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of infertility. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to infertility, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize infertility and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0011",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on menopause, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of menopause.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0012",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of labor. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For labor, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0013",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pregnancy complications?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0014",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected contraception has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0015",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of gynecologic oncology. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gynecologic oncology, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gynecologic oncology and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0016",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on infertility, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of infertility.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0017",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of menopause. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For menopause, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0018",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with labor?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0019",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected pregnancy complications has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0020",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of contraception. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to contraception, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize contraception and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0021",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on gynecologic oncology, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gynecologic oncology.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0022",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of infertility. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For infertility, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0023",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with menopause?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0024",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected labor has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0025",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of pregnancy complications. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pregnancy complications, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pregnancy complications and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0026",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on contraception, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of contraception.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0027",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of gynecologic oncology. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gynecologic oncology, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0028",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with infertility?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0029",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected menopause has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0030",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of labor. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to labor, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize labor and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0031",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on pregnancy complications, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pregnancy complications.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0032",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of contraception. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For contraception, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0033",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gynecologic oncology?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0034",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected infertility has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0035",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of menopause. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to menopause, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize menopause and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0036",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on labor, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of labor.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0037",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of pregnancy complications. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pregnancy complications, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0038",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with contraception?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0039",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected gynecologic oncology has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0040",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of infertility. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to infertility, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize infertility and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0041",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on menopause, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of menopause.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0042",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of labor. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For labor, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0043",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pregnancy complications?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0044",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected contraception has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0045",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of gynecologic oncology. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gynecologic oncology, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gynecologic oncology and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0046",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on infertility, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of infertility.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0047",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of menopause. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For menopause, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0048",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with labor?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0049",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected pregnancy complications has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0050",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of contraception. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to contraception, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize contraception and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0051",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on gynecologic oncology, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gynecologic oncology.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0052",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of infertility. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For infertility, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0053",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with menopause?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0054",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected labor has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0055",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of pregnancy complications. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pregnancy complications, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pregnancy complications and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0056",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on contraception, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of contraception.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0057",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of gynecologic oncology. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gynecologic oncology, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0058",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with infertility?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0059",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A patient with suspected menopause has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0060",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "A patient presents with findings typical of labor. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to labor, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize labor and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0061",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "In a previous-exam-style question on pregnancy complications, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pregnancy complications.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0062",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A candidate is asked about complications of contraception. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For contraception, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0063",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gynecologic oncology?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0064",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A patient with suspected infertility has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0065",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "A patient presents with findings typical of menopause. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to menopause, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize menopause and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0066",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "In a previous-exam-style question on labor, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of labor.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0067",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A candidate is asked about complications of pregnancy complications. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pregnancy complications, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0068",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "Which treatment principle is most appropriate for a stable patient with contraception?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0069",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A patient with suspected gynecologic oncology has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0070",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "A patient presents with findings typical of infertility. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to infertility, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize infertility and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0071",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "In a previous-exam-style question on menopause, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of menopause.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0072",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A candidate is asked about complications of labor. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For labor, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0073",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pregnancy complications?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0074",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A patient with suspected contraception has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0075",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "A patient presents with findings typical of gynecologic oncology. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gynecologic oncology, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gynecologic oncology and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0076",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "In a previous-exam-style question on infertility, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of infertility.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0077",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A candidate is asked about complications of menopause. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For menopause, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0078",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "Which treatment principle is most appropriate for a stable patient with labor?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0079",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A patient with suspected pregnancy complications has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0080",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "A patient presents with findings typical of contraception. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to contraception, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize contraception and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0081",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2017,
+      "stem": "In a previous-exam-style question on gynecologic oncology, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gynecologic oncology.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0082",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2018,
+      "stem": "A candidate is asked about complications of infertility. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For infertility, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0083",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2019,
+      "stem": "Which treatment principle is most appropriate for a stable patient with menopause?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0084",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2020,
+      "stem": "A patient with suspected labor has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0085",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2021,
+      "stem": "A patient presents with findings typical of pregnancy complications. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to pregnancy complications, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize pregnancy complications and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0086",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2022,
+      "stem": "In a previous-exam-style question on contraception, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of contraception.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0087",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2023,
+      "stem": "A candidate is asked about complications of gynecologic oncology. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For gynecologic oncology, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0088",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2024,
+      "stem": "Which treatment principle is most appropriate for a stable patient with infertility?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0089",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2014,
+      "stem": "A patient with suspected menopause has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0090",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2015,
+      "stem": "A patient presents with findings typical of labor. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to labor, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize labor and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0091",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2016,
+      "stem": "In a previous-exam-style question on pregnancy complications, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of pregnancy complications.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0092",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2017,
+      "stem": "A candidate is asked about complications of contraception. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For contraception, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0093",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2018,
+      "stem": "Which treatment principle is most appropriate for a stable patient with gynecologic oncology?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0094",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2019,
+      "stem": "A patient with suspected infertility has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0095",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2020,
+      "stem": "A patient presents with findings typical of menopause. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to menopause, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize menopause and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0096",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2021,
+      "stem": "In a previous-exam-style question on labor, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of labor.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0097",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2022,
+      "stem": "A candidate is asked about complications of pregnancy complications. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For pregnancy complications, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0098",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2023,
+      "stem": "Which treatment principle is most appropriate for a stable patient with contraception?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "which",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0099",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2024,
+      "stem": "A patient with suspected gynecologic oncology has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0100",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2014,
+      "stem": "A patient presents with findings typical of infertility. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to infertility, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize infertility and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0101",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2015,
+      "stem": "In a previous-exam-style question on menopause, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of menopause.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "in",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0102",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2016,
+      "stem": "A candidate is asked about complications of labor. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For labor, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0103",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2017,
+      "stem": "Which treatment principle is most appropriate for a stable patient with pregnancy complications?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "which",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0104",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2018,
+      "stem": "A patient with suspected contraception has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0105",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2019,
+      "stem": "A patient presents with findings typical of gynecologic oncology. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to gynecologic oncology, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize gynecologic oncology and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "a",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0106",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2020,
+      "stem": "In a previous-exam-style question on infertility, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of infertility.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "in",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0107",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2021,
+      "stem": "A candidate is asked about complications of menopause. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For menopause, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0108",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Labor",
+      "difficulty": "easy",
+      "yearStyle": 2022,
+      "stem": "Which treatment principle is most appropriate for a stable patient with labor?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "labor",
+        "which",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0109",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Pregnancy complications",
+      "difficulty": "hard",
+      "yearStyle": 2023,
+      "stem": "A patient with suspected pregnancy complications has a potential emergency feature. What is the best immediate approach?",
+      "options": [
+        "Stabilize the patient while confirming the diagnosis",
+        "Wait for outpatient review before any intervention",
+        "Ignore vital signs if the history is suggestive",
+        "Perform only elective testing",
+        "Treat a minor alternative diagnosis first"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Emergency variants require airway, breathing, circulation, disability and exposure thinking before definitive specialty steps. Diagnostic confirmation should not delay stabilization.",
+      "highYieldTakeaway": "When unstable, stabilization comes before perfect diagnostic certainty.",
+      "tags": [
+        "gynecology-obstetrics",
+        "pregnancy-complications",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0110",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Contraception",
+      "difficulty": "medium",
+      "yearStyle": 2024,
+      "stem": "A patient presents with findings typical of contraception. Which next step is most appropriate in the SSM-style management pathway?",
+      "options": [
+        "Confirm the key diagnosis and start first-line management",
+        "Delay care until every rare cause is excluded",
+        "Use an unrelated screening test as initial therapy",
+        "Treat only symptoms without risk stratification",
+        "Schedule routine follow-up without addressing red flags"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "The vignette points to contraception, where SSM questions usually reward early recognition plus first-line management. Red flags and severity should be assessed before choosing invasive or delayed strategies.",
+      "highYieldTakeaway": "Recognize contraception and choose the safest evidence-based first step.",
+      "tags": [
+        "gynecology-obstetrics",
+        "contraception",
+        "a",
+        "medium"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0111",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Gynecologic oncology",
+      "difficulty": "easy",
+      "yearStyle": 2014,
+      "stem": "In a previous-exam-style question on gynecologic oncology, which feature most strongly supports the diagnosis?",
+      "options": [
+        "A coherent cluster of typical clinical and laboratory findings",
+        "A single nonspecific symptom in isolation",
+        "Normal objective testing despite severe claimed disease",
+        "A finding explained better by another organ system",
+        "Absence of the defining diagnostic criterion"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "SSM stems often include one discriminating clue rather than long workups. The best answer is the option that matches the defining clinical pattern of gynecologic oncology.",
+      "highYieldTakeaway": "Anchor on the discriminating clue, not on isolated nonspecific symptoms.",
+      "tags": [
+        "gynecology-obstetrics",
+        "gynecologic-oncology",
+        "in",
+        "easy"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0112",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Infertility",
+      "difficulty": "hard",
+      "yearStyle": 2015,
+      "stem": "A candidate is asked about complications of infertility. Which complication should be actively prevented or monitored?",
+      "options": [
+        "The common high-impact complication linked to the disease mechanism",
+        "A complication unrelated to the affected system",
+        "A benign incidental laboratory variant",
+        "An adverse event that occurs only after a different diagnosis",
+        "A normal physiologic adaptation"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Complication questions test mechanism and clinical surveillance. For infertility, prevention and monitoring focus on the complication most likely to change prognosis.",
+      "highYieldTakeaway": "Tie complications to pathophysiology and prognosis.",
+      "tags": [
+        "gynecology-obstetrics",
+        "infertility",
+        "a",
+        "hard"
+      ]
+    },
+    {
+      "id": "ssm-gynecology_obstetrics-0113",
+      "topic": "Gynecology and obstetrics",
+      "subtopic": "Menopause",
+      "difficulty": "medium",
+      "yearStyle": 2016,
+      "stem": "Which treatment principle is most appropriate for a stable patient with menopause?",
+      "options": [
+        "Use guideline-directed first-line therapy and reassess response",
+        "Start maximal rescue therapy before confirming severity",
+        "Avoid all therapy until irreversible damage develops",
+        "Choose therapy based only on patient age",
+        "Prefer obsolete therapy despite safer alternatives"
+      ],
+      "correctAnswerIndex": 0,
+      "conciseExplanation": "Stable cases usually require standard first-line therapy, monitoring, and escalation only when indicated. SSM answers penalize both undertreatment and unnecessary aggressive rescue therapy.",
+      "highYieldTakeaway": "Stable disease: first-line therapy, monitor, then escalate.",
+      "tags": [
+        "gynecology-obstetrics",
+        "menopause",
+        "which",
+        "medium"
+      ]
+    }
+  ]
+}
