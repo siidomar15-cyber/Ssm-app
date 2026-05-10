@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ssm-2023-cardio-001",
+    "topic": "CARDIOLOGY",
+    "year": 2023,
+    "stem": "A 68-year-old with crushing chest pain has ST elevation in II, III and aVF. Which artery is most often occluded?",
+    "options": [
+      "Left anterior descending artery",
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Left main coronary artery",
+      "Posterior descending vein"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inferior STEMI classically involves leads II, III and aVF. The right coronary artery is the culprit in most right-dominant circulations.",
+    "takeaway": "Inferior STEMI = think RCA first."
+  }
+]
