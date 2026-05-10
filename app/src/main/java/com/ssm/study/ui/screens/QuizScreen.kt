@@ -12,6 +12,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
+import androidx.compose.material.icons.filled.Flag
 import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material.icons.outlined.Flag
 import androidx.compose.material3.Button
@@ -38,11 +39,20 @@ fun QuizScreen(
     onDifficult: (QuestionWithFlag) -> Unit,
     onFinish: () -> Unit
 ) {
+    state.errorMessage?.let { message ->
+        ErrorState("Quiz unavailable", message)
+        return
+    }
+    if (state.isLoading) {
+        LoadingState("Preparing your questions…")
+        return
+    }
+
     val item = state.current
     if (item == null) {
         Column(Modifier.fillMaxSize().padding(ScreenPadding), verticalArrangement = Arrangement.spacedBy(16.dp)) {
             Text("No questions loaded", style = MaterialTheme.typography.headlineMedium)
-            Text("Pick a topic or start a simulation from the dashboard.")
+            Text("Pick a topic with available questions or start a simulation from the dashboard.")
         }
         return
     }
@@ -56,10 +66,10 @@ fun QuizScreen(
             }
             Row {
                 IconButton(onClick = { onBookmark(item) }) {
-                    Icon(if (item.bookmarked) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder, "Bookmark")
+                    Icon(if (item.bookmarked) Icons.Filled.Bookmark else Icons.Outlined.BookmarkBorder, contentDescription = "Bookmark")
                 }
                 IconButton(onClick = { onDifficult(item) }) {
-                    Icon(if (item.difficult) Icons.Outlined.Flag else Icons.Outlined.Flag, "Difficult")
+                    Icon(if (item.difficult) Icons.Filled.Flag else Icons.Outlined.Flag, contentDescription = "Difficult")
                 }
             }
         }
